@@ -97,7 +97,7 @@ El informe se debe entregar en formato pdf en la plataforma Bs . Adjunte los ane
 <pre>
 
 install.packages("devtools") # solo una vez
-devtools::install_github("dgonxalex80/paqueteMETODOS") 
+devtools::install_github("centromagis/paqueteMETODOS") 
 library(paqueteMETODOS)
 data(vivienda4)
 
